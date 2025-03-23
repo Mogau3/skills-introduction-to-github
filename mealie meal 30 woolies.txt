@@ -10,3 +10,4 @@ Doom
 Fruits 100
 Milktr
 vinegar
+salt
